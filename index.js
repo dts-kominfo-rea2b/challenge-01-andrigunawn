@@ -32,7 +32,7 @@ const secondUser = {
     gender : "Male",
     age : 23,
     email : "wendy@dingdong.com",
-    favoritColor : ["Blue","Black","Grey"],
+    favoriteColor : ["Blue","Black","Grey"],
     isHavePet : "Yes",
     education : [
         {
@@ -52,7 +52,7 @@ const secondUser = {
     ],
     favoriteRestaurant : ["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]
 };
- console.log(firstUser);
+
  
 // TODO: Masukkan hasil akhir dari kedua user di sini
 const users = [];
