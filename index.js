@@ -55,9 +55,9 @@ const secondUser = {
  console.log(firstUser);
  
 // TODO: Masukkan hasil akhir dari kedua user di sini
-const users = new Set();
-users.add(firstUser);
-users.add(secondUser);
+const users = [];
+users.push(firstUser);
+users.push(secondUser);
 
 
 
