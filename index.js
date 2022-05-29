@@ -50,7 +50,7 @@ const secondUser = {
         
         }
     ],
-    favoriteRestaurant : new ["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]
+    favoriteRestaurant : ["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Eggy"]
 };
  console.log(firstUser);
  
